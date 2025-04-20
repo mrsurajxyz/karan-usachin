@@ -66,7 +66,7 @@ const Header: React.FC = () => {
 
           {/* CTA Button */}
           <a
-            href="#contact"
+            href="https://wa.me/918368893579"
             className={`hidden md:block px-5 py-2 rounded-full transition-all duration-300 text-sm font-medium ${
               isScrolled
                 ? 'bg-amber-600 text-white hover:bg-amber-700'

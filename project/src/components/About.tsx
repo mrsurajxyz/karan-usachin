@@ -10,7 +10,7 @@ const About: React.FC = () => {
             <div className="relative">
               <div className="w-full h-96 rounded-xl overflow-hidden shadow-xl">
                 <img 
-                  src="https://images.pexels.com/photos/4386073/pexels-photo-4386073.jpeg?auto=compress&cs=tinysrgb&w=1600" 
+                  src="https://images.pexels.com/photos/31715748/pexels-photo-31715748.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                   alt="Hallmarking Process" 
                   className="w-full h-full object-cover"
                 />
